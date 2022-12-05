@@ -1,6 +1,9 @@
-### Hi there 👋
-[![Instagram Badge](https://img.shields.io/badge/-as_kovalev-2275bf?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/as_kovalev/)](https://www.instagram.com/as_kovalev/)
-[![Gmail Badge](https://img.shields.io/badge/-askovalev93@gmail.com-2275bf?style=flat-square&logo=Gmail&logoColor=white&link=mailto:askovalev93@gmail.com)](mailto:askovalev93@gmail.com)
+<img align='top' src='https://github.com/GITASKO/gitasko/blob/01909baa916604b0829db877c006836bd1c06057/GitHub_header.png' width='100%'>
+
+[![Instagram Badge](https://img.shields.io/badge/-as_kovalev-16567e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/as_kovalev/)](https://www.instagram.com/as_kovalev/)
+[![Gmail Badge](https://img.shields.io/badge/-askovalev93@gmail.com-2282bf?style=flat-square&logo=Gmail&logoColor=white&link=mailto:askovalev93@gmail.com)](mailto:askovalev93@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-SOON-4ea7df?style=flat-square&logo=HTML5&logoColor=white&link=)]()
+
 <img align='right' src='https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif' width='200"'>
 
 
