@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Instagram Badge](https://img.shields.io/badge/-as_kovalev-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/as_kovalev/)](https://www.instagram.com/as_kovalev/)
 
 <!--
 **GITASKO/gitasko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
